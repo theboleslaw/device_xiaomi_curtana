@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_curtana.mk
+    $(LOCAL_DIR)/bootleg_curtana.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_curtana-user \
-    lineage_curtana-userdebug \
-    lineage_curtana-eng
+    bootleg_curtana-user \
+    bootleg_curtana-userdebug \
+    bootleg_curtana-eng
